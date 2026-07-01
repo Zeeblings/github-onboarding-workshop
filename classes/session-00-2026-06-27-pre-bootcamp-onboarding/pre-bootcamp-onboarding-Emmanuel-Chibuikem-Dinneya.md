@@ -14,7 +14,6 @@
 - How to create and upload files in a repository.
 - How collaboration works in GitHub.
 - How to fork an existing repository
--
 
 ---
 
@@ -50,8 +49,6 @@ I also learnt how to set up a Github repository.
 <!-- Anything you want to follow up on or ask the mentor -->
 
 - why do we save the files in our repository as ".md" extension?
--
-
 ---
 
 ## Resources I Found Useful
